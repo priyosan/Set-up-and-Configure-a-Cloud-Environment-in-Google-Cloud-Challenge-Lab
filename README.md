@@ -1,6 +1,6 @@
-# Google Cloud Platform Go Samples
+# Google Cloud Platform With Go Samples
 
-# Set-up-and-Configure-a-Cloud-Environment-in-Google-Cloud-Challenge-Lab
+# Set-up-and-Configure-a-Cloud-Environment-in-Google Cloud-Challenge Lab
 
 
 
